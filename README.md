@@ -25,4 +25,4 @@ The BrezyWeather is a simple .NET Core web app used as a demo project in this Do
 - Basic knowledge of Docker CLI commands.
 
 ## Learn more and enroll
-https://www.udemy.com/labs/2464
+https://www.udemy.com/labs/deploy-and-manage-a-containerized-weather-app-using-docker-hub/
